@@ -1,2 +1,2 @@
 # Ecommerce
-This is the Project to Work on something products related
+This is the Project for the Assignment works 
