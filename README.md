@@ -1,2 +1,9 @@
-# Ecommerce
-Hi this is my testing branch for frontend
+# How to Run this Project
+
+First 
+
+# npm install
+
+Second
+
+# npm run dev
